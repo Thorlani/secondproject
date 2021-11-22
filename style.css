@@ -6,6 +6,7 @@ body {
 }
 
 div {
+    font-family: 'Source Sans Pro', sans-serif;
     position: relative;
     background-color: #ffffff;
     width: 25%;
